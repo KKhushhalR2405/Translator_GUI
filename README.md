@@ -18,5 +18,10 @@ Follow [here](https://github.com/ssut/py-googletrans) to install googletrans
  
  1) Clone the repo
  ```
- git clone 
+ git clone https://github.com/KKhushhalR2405/Translator_GUI.git
  ```
+2) Run trans.py
+
+## To Contribute
+
+All kinds of contributions are welcomed. To contribute, Create a Pull Request
