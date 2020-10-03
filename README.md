@@ -21,6 +21,7 @@ Follow [here](https://github.com/ssut/py-googletrans) to install googletrans
  git clone https://github.com/KKhushhalR2405/Translator_GUI.git
  ```
 2) Run trans.py
+<hr>
 
 ## To Contribute
 
