@@ -10,7 +10,7 @@ def trans():
 	word=entry.get()
 	translator=Translator(service_urls=['translate.google.com'])
 	translation1=translator.translate(word,dest="hi")
-	label1=tk.Label(win,text=f"Translated in Hindi : {translation1.text}",bg="yellow")
+	label1=tk.Label(win,text=f"Translated in Hindi....... : {translation1.text}",bg="yellow")
 	label1.grid(row=2,column=0)
 
 label=tk.Label(win,text="Enter Word : ")
