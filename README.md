@@ -24,4 +24,4 @@ Follow [here](https://github.com/ssut/py-googletrans) to install googletrans
 
 ## To Contribute
 
-All kinds of contributions are welcomed. To contribute, Create a Pull Request
+All kinds of contributions are welcomed. To contribute, Create a Pull Request or look for issues [here](https://github.com/KKhushhalR2405/Translator_GUI/issues)
