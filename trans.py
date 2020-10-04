@@ -3,7 +3,7 @@ from googletrans import Translator
 
 win=tk.Tk()
 win.title("Translator")
-win.geometry("200x70")
+win.geometry("300x200")
 
 
 def trans():
