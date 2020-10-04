@@ -30,7 +30,9 @@ Follow [here](https://github.com/ssut/py-googletrans) to install googletrans
 
 #### Screenshots
 ![image1](https://github.com/OverPoweredDev/Translator_GUI/blob/master/images/ss1.png)
+
 ![image2](https://github.com/OverPoweredDev/Translator_GUI/blob/master/images/ss2.png)
+
 ![image3](https://github.com/OverPoweredDev/Translator_GUI/blob/master/images/ss3.png)
 
 <hr>
